@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Http", "Http\Http.njsproj", "{AD00BABC-E7E1-4AD3-8B84-E1D85405F8EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD00BABC-E7E1-4AD3-8B84-E1D85405F8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD00BABC-E7E1-4AD3-8B84-E1D85405F8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD00BABC-E7E1-4AD3-8B84-E1D85405F8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD00BABC-E7E1-4AD3-8B84-E1D85405F8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DDF5E12-0AA4-4C41-9969-5A6747ED2FEB}
+	EndGlobalSection
+EndGlobal
